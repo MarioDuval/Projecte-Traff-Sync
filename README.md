@@ -12,17 +12,13 @@
 ## Introducció
 Projecte on fem l'elaboració d'una pàgina web per a un client des de zero. On primer fem un esborrany en paper per donar-li forma a la idea del client, i anem seguint els diferents passos fins a finalment obtenir la web. En el meu cas, les dades del projecte són:
 
-* Nom de projecte: Chaleco con intermitentes.  
-* Empresa de desenvolupament: Inefable S.A.  
+* Nom de projecte: Armilla amb intermitents.
+* Empresa de desenvolupament: Inefable S.A.
 * Responsable Tècnic: Mario Duval
-
-
 
 * Dades de client: Traff Sync S.L.
 * Client: Manuel García
-* Descripció Projecte: Es un chaleco con intermitentes para los usuarios de patinetes electricos y/o bicicletas.
-
-
+* Descripció Projecte: Es tracta d'una armilla amb intermitents per als usuaris de patinets elèctrics o bicicletes.
 
 ## Elaboració del esborrany
 
