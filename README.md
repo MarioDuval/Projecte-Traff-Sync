@@ -1,9 +1,11 @@
 # Projecte-Traff-Sync
 
-## General Info
+## Technologies
 ***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
-### Screenshot
+A list of technologies used within the project:
+* [Technologie name](https://example.com): Version 12.3 
+* [Technologie name](https://example.com): Version 2.34
+* [Library name](https://example.com): Version 1234
 
 ## Índex
 1. Introducció
