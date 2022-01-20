@@ -1,11 +1,5 @@
 # Projecte-Traff-Sync
 
-## Technologies
-***
-A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
 
 ## Índex
 1. Introducció
@@ -18,14 +12,14 @@ A list of technologies used within the project:
 ## Introducció
 Projecte on fem l'elaboració d'una pàgina web per a un client des de zero. On primer fem un esborrany en paper per donar-li forma a la idea del client, i anem seguint els diferents passos fins a finalment obtenir la web. En el meu cas, les dades del projecte són:
 
-Nom de projecte: Chaleco con intermitentes.
-Empresa de desenvolupament: Inefable S.A.
-Responsable Tècnic: Mario Duval
+* Nom de projecte: Chaleco con intermitentes.
+* Empresa de desenvolupament: Inefable S.A.
+* Responsable Tècnic: Mario Duval
 
 
-Dades de client: Traff Sync
-Client: Manuel García
-Descripció Projecte: Es un chaleco con intermitentes para los usuarios de patinetes electricos y/o bicicletas.
+* Dades de client: Traff Sync
+* Client: Manuel García
+* Descripció Projecte: Es un chaleco con intermitentes para los usuarios de patinetes electricos y/o bicicletas.
 
 
 
