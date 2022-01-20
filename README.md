@@ -1,1 +1,3 @@
 # Projecte-Traff-Sync
+
+Esborrany
