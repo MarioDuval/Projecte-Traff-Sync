@@ -17,6 +17,7 @@ Projecte on fem l'elaboració d'una pàgina web per a un client des de zero. On 
 * Responsable Tècnic: Mario Duval
 
 
+
 * Dades de client: Traff Sync S.L.
 * Client: Manuel García
 * Descripció Projecte: Es un chaleco con intermitentes para los usuarios de patinetes electricos y/o bicicletas.
