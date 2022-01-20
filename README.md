@@ -2,4 +2,4 @@
 
 # Esborrany
 
-![Documentos escaneados_page-0001](https://user-images.githubusercontent.com/77450981/150394803-c4c60ca5-13d9-4908-b56a-85d80ad5296c.jpg)
+![Esborrany Web](https://user-images.githubusercontent.com/77450981/150397681-65cd892e-f711-4645-9ea6-27ea92fc789e.jpg)
