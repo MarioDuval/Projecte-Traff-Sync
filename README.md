@@ -34,3 +34,8 @@ Després de fer l'esborrany de la idea del client, el passem a wireframe.
 
 ![Wireframe DIW](https://user-images.githubusercontent.com/77450981/150406763-620579c6-0021-4116-ad3f-87213e1e336c.jpg)
 
+## 4. Mapa de navegació
+La navegació de la pàgina web serà vertical, amb un botó que es trobarà al final de la pàgina per tornar al principi. 
+
+## 5. Guia d'estils
+
