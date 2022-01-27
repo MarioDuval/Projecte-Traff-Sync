@@ -35,7 +35,25 @@ Després de fer l'esborrany de la idea del client, el passem a wireframe.
 ![Wireframe DIW](https://user-images.githubusercontent.com/77450981/150406763-620579c6-0021-4116-ad3f-87213e1e336c.jpg)
 
 ## 4. Mapa de navegació
+
 La navegació de la pàgina web serà vertical, amb un botó que es trobarà al final de la pàgina per tornar al principi. 
 
 ## 5. Guia d'estils
 
+En la guia d'estils tal i como indica el seu nom presentarem els estils utilitzats per la pàgina web. Color, tipografía, logotip de l'empresa...
+
+Els colors utilitzats són 3:
+
+* Bitter Lime "C3F73A"
+* Shiny Shamrock "68B684"
+* Yale Blue "094D92"
+
+![image](https://user-images.githubusercontent.com/77450981/151416363-e179394c-468a-49b3-a8ca-8d0eab23a095.png)
+
+La tipografía seleccionada és:
+
+![image](https://user-images.githubusercontent.com/77450981/151417163-5ec3c79a-16ce-44d9-99b9-1ad29b1a0aea.png)
+
+El logo que s'ha decidit per l'empresa és:
+
+![logo](https://user-images.githubusercontent.com/77450981/151417319-97847c65-b6e8-43c2-b610-7a6af6fc6ac2.JPG)
