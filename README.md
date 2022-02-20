@@ -63,3 +63,9 @@ El logo que s'ha decidit per l'empresa és:
 El prototip de la pàgina web és:
 
 https://marioduval.github.io/Projecte-Traff-Sync/ 
+
+![gif-bart2](https://user-images.githubusercontent.com/77450981/154846130-45ffe9df-e200-43b7-9898-cdde0579d402.gif)
+![image](https://user-images.githubusercontent.com/77450981/154846064-3685e494-7cd9-44a6-aa3e-baea6e5a0552.png)
+![image](https://user-images.githubusercontent.com/77450981/154846087-6b96328c-137e-4684-a5f6-551acde65456.png)
+
+
