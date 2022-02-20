@@ -57,3 +57,9 @@ La tipografía seleccionada és:
 El logo que s'ha decidit per l'empresa és:
 
 ![logo](https://user-images.githubusercontent.com/77450981/151417319-97847c65-b6e8-43c2-b610-7a6af6fc6ac2.JPG)
+
+## 6. Creació prototip
+
+El prototip de la pàgina web és:
+
+https://marioduval.github.io/Projecte-Traff-Sync/ 
