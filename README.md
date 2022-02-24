@@ -80,7 +80,7 @@ Els objectius del servei és fer el desenvolupament de una pàgina web tipus sin
 
 ### 3. Desenvolupament del Contingut de la Proposta
 
-![image](https://user-images.githubusercontent.com/77450981/155572884-f8acb71e-fe93-4be0-9ece-5b11694da59a.png)
+![image](https://user-images.githubusercontent.com/77450981/155577195-8b83a681-edcb-486e-8c1a-87e0c0c63879.png)
 
 ### 4. Abast de la Proposta
 
