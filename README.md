@@ -76,18 +76,24 @@ Som una empresa IT que es diu Inefable S.A. que es dediquem a la creació i diss
 
 ### 2. Objectius del Servei
 
-Els objectius del servei és per fer promoció de lo que es vol vendre per tal de veure quanta gent pot comprar-ho.
+Els objectius del servei és fer el desenvolupament de una pàgina web tipus single page.
 
 ### 3. Desenvolupament del Contingut de la Proposta
 
-![image](https://user-images.githubusercontent.com/77450981/155571074-dff31356-cc31-41d3-80fb-fef1d87502b8.png)
+![image](https://user-images.githubusercontent.com/77450981/155572884-f8acb71e-fe93-4be0-9ece-5b11694da59a.png)
 
 ### 4. Abast de la Proposta
 
-Les propostes es fan setmanals i solament es té una setmana de més per fer un canvi.
+- Front-end
+- Back-end
+- Manteniment
+- Planifiació i disseny
+- Serveis cloud
 
 ### 5. Valor del Servei
 
 El valor del servei és que amb la pàgina web es farà promoció del producte i es podrà veure l'interès per el producte en venda.
 
 ### 6. Preu i forma de pagament
+
+El preu serà de 1.500€ amb un previ del 20% que són 300€ després de entregar el prototip es té que fer el pagament restant.
