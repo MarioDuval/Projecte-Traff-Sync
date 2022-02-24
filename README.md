@@ -68,4 +68,26 @@ https://marioduval.github.io/Projecte-Traff-Sync/
 ![image](https://user-images.githubusercontent.com/77450981/154846064-3685e494-7cd9-44a6-aa3e-baea6e5a0552.png)
 ![image](https://user-images.githubusercontent.com/77450981/154846087-6b96328c-137e-4684-a5f6-551acde65456.png)
 
+##Proposta de projecte
 
+### 1. Qui som.
+
+Som una empresa IT que es diu Inefable S.A. que es dediquem a la creació i disseny de pàgines web i aplicacions.
+
+### 2. Objectius del Servei
+
+Els objectius del servei és per fer promoció de lo que es vol vendre per tal de veure quanta gent pot comprar-ho.
+
+### 3. Desenvolupament del Contingut de la Proposta
+
+![image](https://user-images.githubusercontent.com/77450981/155571074-dff31356-cc31-41d3-80fb-fef1d87502b8.png)
+
+### 4. Abast de la Proposta
+
+Les propostes es fan setmanals i solament es té una setmana de més per fer un canvi.
+
+### 5. Valor del Servei
+
+El valor del servei és que amb la pàgina web es farà promoció del producte i es podrà veure l'interès per el producte en venda.
+
+### 6. Preu i forma de pagament
