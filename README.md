@@ -9,6 +9,13 @@
 4. Elaboració d'un mapa de Navegació
 5. Elaboració de la guia d'estils
 6. Creació d'un prototip
+7. Proposta de projecte
+  7.1. Qui som
+  7.2. Objectius del Servei
+  7.3. Desenvolupament del Contingut de la Proposta
+  7.4. Abast de la Proposta
+  7.5. Valor del Servei
+  7.6. Preu i forma de pagament
 
 ## 1. Introducció
 
@@ -68,21 +75,21 @@ https://marioduval.github.io/Projecte-Traff-Sync/
 ![image](https://user-images.githubusercontent.com/77450981/154846064-3685e494-7cd9-44a6-aa3e-baea6e5a0552.png)
 ![image](https://user-images.githubusercontent.com/77450981/154846087-6b96328c-137e-4684-a5f6-551acde65456.png)
 
-##Proposta de projecte
+## 7. Proposta de projecte
 
-### 1. Qui som.
+### 7.1. Qui som
 
 Som una empresa IT que es diu Inefable S.A. que es dediquem a la creació i disseny de pàgines web i aplicacions.
 
-### 2. Objectius del Servei
+### 7.2. Objectius del Servei
 
 Els objectius del servei és fer el desenvolupament de una pàgina web tipus single page.
 
-### 3. Desenvolupament del Contingut de la Proposta
+### 7.3. Desenvolupament del Contingut de la Proposta
 
 ![image](https://user-images.githubusercontent.com/77450981/155577195-8b83a681-edcb-486e-8c1a-87e0c0c63879.png)
 
-### 4. Abast de la Proposta
+### 7.4. Abast de la Proposta
 
 - Front-end
 - Back-end
@@ -90,10 +97,10 @@ Els objectius del servei és fer el desenvolupament de una pàgina web tipus sin
 - Planifiació i disseny
 - Serveis cloud
 
-### 5. Valor del Servei
+### 7.5. Valor del Servei
 
 El valor del servei és que amb la pàgina web es farà promoció del producte i es podrà veure l'interès per el producte en venda.
 
-### 6. Preu i forma de pagament
+### 7.6. Preu i forma de pagament
 
 El preu serà de 1.500€ amb un previ del 20% que són 300€ després de entregar el prototip es té que fer el pagament restant, en el cas de contractar-nos.
