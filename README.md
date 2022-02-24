@@ -10,12 +10,6 @@
 5. Elaboració de la guia d'estils
 6. Creació d'un prototip
 7. Proposta de projecte
-  7.1. Qui som
-  7.2. Objectius del Servei
-  7.3. Desenvolupament del Contingut de la Proposta
-  7.4. Abast de la Proposta
-  7.5. Valor del Servei
-  7.6. Preu i forma de pagament
 
 ## 1. Introducció
 
