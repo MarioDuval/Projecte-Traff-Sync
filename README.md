@@ -96,4 +96,4 @@ El valor del servei és que amb la pàgina web es farà promoció del producte i
 
 ### 6. Preu i forma de pagament
 
-El preu serà de 1.500€ amb un previ del 20% que són 300€ després de entregar el prototip es té que fer el pagament restant.
+El preu serà de 1.500€ amb un previ del 20% que són 300€ després de entregar el prototip es té que fer el pagament restant, en el cas de contractar-nos.
